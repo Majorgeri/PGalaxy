@@ -1,0 +1,31 @@
+﻿Tutorial Made By David
+
+````````````````````````````````````````````
+  We Are All Apart Of Galaxy
+````````````````````````````````````````````
+
+This File Is a Sample Product And The Very Start Of Something Great
+
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+
+Perl scripts are very easy, all one has to do is drag and drop the files into your vps.
+The only other step would be login to the vps with putty or your choice of SSH terminal.
+The port will be 22, connection type SSH. Once Loged in (Ubuntu server), please type 
+"perl ATRAC.c"! The username and passward can be found below, enjoy! 
+(Max "size" is 65500). Working on more complex things in the future! 
+Type "Exit" when done to exit ;).
+
+USERNAME: GALAXY
+PASSWARD: GALAXY
+
+*Both Of These Will Show Up Invisable Upon Input*
+
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+
+PLEASE REFRAIN FROM "SKIDDING" OR CLAIMING THIS WORK IS YOURS!
+The Orginal Creator Was Sinful, Highly Modified By David
+I Put My Life Into This Work, Plase Be Respectful ;)
+
+`````````````````````````````````````````````````````````````````````````
+
+Please Remember Me For When Im Gone <3
